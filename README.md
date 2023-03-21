@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @exceedololo
-- 👀 I’m interested in C++, Java and general computer science
-- 🌱 I’m currently learning C++ via Yandex Practicum
+- 👀 I’m interested in Go, C++, Java and general computer science
+- 🌱 I’m currently learning Go in my own passion
 - 💞️ I’m looking to collaborate on any easy project
 - 📫 How to reach me alexj4work@gmail.com or  https://t.me/alfredoklyauz
 
